@@ -68,12 +68,31 @@ D $g_x = g_y/4$
 
 
 
+08. Kulka, kurios masė m,skriejo greičiu v. Jai įsmigus į sieną, pusė kinetinės energijos virto kulkos vidine energija. Kuriuo atveju kulkos temperatūros pokytis yra išreikštas teisingai? (c yra  medžiagos, iš kurios pagaminta kulka, savitoji šiluma.)
+A $\frac{mv^2}{4c}$
+B $\frac{2mc}{v^2}$
+C $\frac{v^2}{2c}$
+*D $\frac{v^2}{4c}$
 
 
 
 
 
+9. Į uždarą 10 litrų tūrio indą, kuriame yra sauso oro, įpilta 173 mg vandens. Kam bus lygus inde esančio oro santykinis drėgnis 20 $\deg$C temperatūroje, kai visas vanduo virs garais? Sočiųjų vandens garų tankis, esant 20 $\deg$C temperatūrai, yra 17,3 $g/m^3$.
+*A 100 %
+B 70 %
+C 20 %
+D 10 %
 
+
+
+
+
+10. Adata plūduriuoja vandens paviršiuje. Kas atsveria jos sunkį?
+A Keliamoji Archimedo jėga
+B Skysčio stulpelio slėgis
+*C Skysčio paviršiaus įtempio ir Archimedo jėgų suma
+D Skysčio paviršiaus įtempio ir Archimedo jėgų skirtumas
 
 
 
