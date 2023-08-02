@@ -1,38 +1,73 @@
 01. Koks yra kūno judėjimas, kai jo koordinatė kinta tiesiog proporcingai laiko kvadratui?
-B Tiesiaeigis tolygiai kintamas
 A Tiesiaeigis tolyginis
+*B Tiesiaeigis tolygiai kintamas
 C Kreivaeigis netolygiai kintamas
 D Svyravimas apie pusiausvyros padėtį
+
+
+
+
+
 02. Kūno masės centrą vienu metu veikia 12 N ir 24 N jėgos. Jos tarpusavyje gali būti orientuotos įvairiais kampais. Kuriuo atveju teisingai nurodytas visas atstojamosios jėgos, galinčios veikti kūną, intervalas?
-D 12 N – 36 N
 A 0 N – 24 N
 B 10 N – 36 N
 C 12 N – 24 N
+*D 12 N – 36 N
+
+
+
+
+
 03. Kuris iš pateiktų dydžių yra skaliarinis?
-D Mechaninis darbas
 A Linijinis greitis
 B Įcentrinis pagreitis
 C Atoveikio jėga
+*D Mechaninis darbas
+
+
+
+
+
 04. Kiek kartų reikia padidinti horizontaliai metamo kūno greitį, kad, išmetimo aukštį sumažinus du kartus, kūnas horizontalia kryptimi nuskrietų tokį patį atstumą?
-A $\sqrt{2}$ karto
+*A $\sqrt{2}$ karto
 B 2 kartus
 C $\sqrt{10}$ karto
 D 4 kartus
-05. Paveiksle pavaizduoti penki vienodi rutuliukai, kurie surišti lengvu netampriu siūlu, permestu per lengvą skridinį. Kokio didumo pagreitį įgis tokia surištų rutuliukų sistema? Laisvojo kritimo pagreitis 10 $m/s^2$. Trinties nepaisykite. 
-B 2 $m/s^2$
+
+
+
+
+
+05. Paveiksle pavaizduoti penki vienodi rutuliukai, kurie surišti lengvu netampriu siūlu, permestu per lengvą skridinį. Kokio didumo pagreitį įgis tokia surištų rutuliukų sistema? Laisvojo kritimo pagreitis 10 $m/s^2$. Trinties nepaisykite. [](https://drive.google.com/file/d/1dXjOCigaxVU-aSLozZLllU0UYtvo-S3O/view?usp=drive_link)
 A 1 $m/s^2$
+*B 2 $m/s^2$
 C 3 $m/s^2$
 D 5 $m/s^2$
+
+
+
+
+
 06. Kūnas tolygiai juda apskritimu, kurio spindulys R. Kuriuo atveju ryšys tarp kūno kampinio greičio $\omega$ ir linijinio greičio $v$ nurodytas teisingai?
-C $v = \omega \cdot R$
 A $\omega = v \cdot R$
 B $\omega = v^2 / R$
+*C $v = \omega \cdot R$
 D $v = \omega^2 \cdot R$
+
+
+
+
+
 07. Planetos X masė ir spindulys yra dvigubai didesni už planetos Y masę ir spindulį. Palyginkite laisvojo kritimo pagreitį gX planetos X paviršiuje su laisvojo kritimo pagreičiu gY planetos Y  paviršiuje.
-C $g_x = g_y/2$
 A $g_x = 2g_y$
 B $g_x = 4g_y$
+*C $g_x = g_y/2$
 D $g_x = g_y/4$
+
+
+
+
+
 
 
 
