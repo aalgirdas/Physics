@@ -1,1 +1,1 @@
-# fizikos-valstybinio-brandos-egzamino-uzduotys-ir-sprendimai
+# fizikos valstybinio brandos egzamino VBE uzduotys ir sprendimai
