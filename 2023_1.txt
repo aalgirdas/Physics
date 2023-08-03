@@ -78,7 +78,7 @@ C $\frac{v^2}{2c}$
 
 
 
-9. Į uždarą 10 litrų tūrio indą, kuriame yra sauso oro, įpilta 173 mg vandens. Kam bus lygus inde esančio oro santykinis drėgnis 20 $\deg$C temperatūroje, kai visas vanduo virs garais? Sočiųjų vandens garų tankis, esant 20 $\deg$C temperatūrai, yra 17,3 $g/m^3$.
+09. Į uždarą 10 litrų tūrio indą, kuriame yra sauso oro, įpilta 173 mg vandens. Kam bus lygus inde esančio oro santykinis drėgnis 20 $\deg$C temperatūroje, kai visas vanduo virs garais? Sočiųjų vandens garų tankis, esant 20 $\deg$C temperatūrai, yra 17,3 $g/m^3$.
 *A 100 %
 B 70 %
 C 20 %
@@ -93,6 +93,215 @@ A Keliamoji Archimedo jėga
 B Skysčio stulpelio slėgis
 *C Skysčio paviršiaus įtempio ir Archimedo jėgų suma
 D Skysčio paviršiaus įtempio ir Archimedo jėgų skirtumas
+
+
+
+
+
+11. Ką reikėtų pakeisti plokščiajame kondensatoriuje, kad jo elektrinė talpa padidėtų?
+A Padidinti atstumą tarp plokštelių
+*B Sumažinti atstumą tarp plokštelių
+C Sumažinti kondensatoriaus plokštelių plotą
+D Iš tarpo tarp plokštelių pašalinti dielektriką
+
+
+
+
+
+12. Paveiksle pavaizduotą elektros grandinę sudaro rezistoriai R1 ir R2, du idealieji diodai ir galvaninis elementas (jo vidinės varžos nepaisoma). Kai gnybtas A prijungiamas prie galvaninio elemento teigiamojo poliaus, o gnybtas B – prie neigiamojo, grandinės vartojama galia lygi 7,2 W. Kai tas pats galvaninis elementas prijungiamas, sukeitus gnybtų ženklus, grandinės vartojama elektros energijos galia tampa 14,4 W. Kam lygus rezistorių varžų santykis $\frac{R_1}{R_2}$? [](https://drive.google.com/file/d/1Xa_cwklPF8CmLpO9FnKd_dN7AniK7iqb/view?usp=sharing)
+A 1/2
+B 1/4
+*C 2
+D 4 
+
+
+
+
+
+13. Kas yra krūvio nešėjai dujose?
+A Tik jonai
+B Tik laisvieji elektronai
+*C Jonai ir elektronai
+D Elektronai ir skylės
+
+
+
+
+
+14. Paveiksle pavaizduotoje elektros grandinės dalyje viršutine šaka teka I = 3 A stiprio elektros srovė, R1 = 10 Ω ir R2 = 30 Ω. Kam lygi bendra šios grandinės dalies varža ir įtampa tarp taškų A ir B? [](https://drive.google.com/file/d/1Oc9Z3QR04swwrndKV-tq-ZjkK4cNhcg3/view?usp=sharing)
+A 40 Ω, 120 V
+B 40 Ω, 30 V
+C 7,5 Ω, 120 V
+*D 7,5 Ω, 30 V
+
+ 
+
+
+
+15. Kiek kartų ir kaip pakis elektros srovės stipris paveiksle pavaizduotoje elektros grandinės dalyje, įjungus jungiklį J? Įtampa tarp gnybtų išlieka tokia pati, o visų rezistorių varža yra vienoda. 
+A 1,5 karto padidės
+B 1,5 karto sumažės
+*C 1,1 karto padidės
+D 1,1 karto sumažės
+
+
+
+
+
+16. Elektromagnetinei indukcijai demonstruoti naudojama ritė, strypinis magnetas ir galvanometras G. Kuriuo atveju pagal galvanometro rodmenis galima nuspręsti, kad magnetas nejuda? [](https://drive.google.com/file/d/11P1I7vIH2EmkzzOwXWAfJJ-zsp2kRunw/view?usp=sharing)
+A a ir b
+B Tik b
+C a ir c
+*D Tik c
+
+
+
+
+
+17. Kurioje terpėje elektromagnetinių bangų sklidimo greitis apytiksliai lygus 300 000 km/s?
+A Lede 
+B Stikle
+*C Vakuume
+D Vandenyje
+
+
+
+
+
+18. Šviesos spindulys iš oro pereina į stiklo plokštelę, krisdamas į ją statmenai. Kokia bus tolesnė šio spindulio eiga?
+A  
+*B 
+C 
+D 
+
+
+
+
+
+19. Kam gali būti naudojami šviesolaidžiai?
+A Tik informacijai perduoti
+B Tik šviesos srautui nukreipti į įrenginį
+C Tik sunkiai prieinamoms vietoms apšviesti ir apžiūrėti
+*D Visi variantai teisingi
+
+
+
+
+
+20. Kuriuo reiškiniu yra pagrįstas transformatoriaus veikimas?
+A Saviindukcija
+B Elektrostatine indukcija
+*C Elektromagnetine indukcija
+D Elektromagnetinių bangų interferencija
+
+
+
+
+
+21. Du nuosekliai sujungti vienodos elektrinės talpos kondensatoriai įelektrinami ir prijungiami prie ritės. Kaip pasikeistų elektromagnetinių virpesių periodas kontūre, jei kondensatoriai tarpusavyje būtų sujungti lygiagrečiai?
+*A Padidėtų du kartus
+B Sumažėtų du kartus
+C Padidėtų keturis kartus
+D Sumažėtų keturis kartus
+
+
+
+
+
+22. Sujungus paveiksle pavaizduotą kintamosios elektros srovės grandinę, stebimas rezonansas. Kam lygus ritės ir kondensatoriaus reaktyviųjų varžų santykis $\frac{X_L}{X_C}$? [](https://drive.google.com/file/d/1DyYzhGj9_10LwowoZCxtj8nVOmF03X_w/view?usp=sharing)
+*A 1
+B 2
+C 3
+D 4
+
+
+
+
+
+23. Viename difrakcijos gardelės milimetre yra 250 rėžių. Kokios didžiausios eilės spektras bus užfiksuotas, kai į šią gardelę statmenai kris $5 \cdot 10^{−5}$ cm bangos ilgio elektromagnetinė spinduliuotė?
+A 2
+B 4
+C 6
+*D 8
+
+d sin(φ) = k λ       k = (d sin(φ) ) / λ          d = 1 / (250 * 10) = 1/2500 (cm)           k = ((1/2500) sin( pi/2 ) ) / (5 * 0.00001) = 8
+
+
+
+24. Eksperimento metu tiriant fotoefekto dėsningumus, cinko plokštelė buvo pakeista sidabro plokštele. Kuris iš išvardytų fizikinių dydžių po plokštelės pakeitimo išliko toks pat? 
+A Išlaisvintų elektronų kinetinė energija
+B Fotoefekto raudonoji riba
+C Elektronų stabdymo įtampa
+*D Soties fotosrovės stipris
+
+
+
+
+
+25. Urano rūdoje rasta $^{234}_{92}\text{U}$ , $^{235}_{92}\text{U}$ ir $^{238}_{92}\text{U}$ izotopų. Kurioje eilutėje vieno iš šių izotopų branduolio sudėtis nurodyta teisingai?
+*A Protonų skaičius 92  Neutronų skaičius 146
+B Protonų skaičius 146  Neutronų skaičius 92
+C Protonų skaičius 235  Neutronų skaičius 147
+D Protonų skaičius 92  Neutronų skaičius 238
+
+
+
+
+
+26. Kokią funkciją branduoliniuose reaktoriuose atlieka tokios medžiagos kaip grafitas (anglis) arba sunkusis vanduo $\mathrm{D}_2\mathrm{O}$? 
+A Spinduliuoja neutronus
+B Greitina neutronus
+*C Lėtina neutronus
+D Sugeria neutronus
+
+
+
+
+
+27. Šviesa vakuume per 5 metus nusklinda apytiksliai $4.73  10^{16}$ m atstumą. Koks tai atstumas astronominiais vienetais? Vienas šviesmetis lygus 63241 astronominiam vienetui.
+A 63241 av 
+B 632410 av 
+*C 316205 av
+D 12648 av
+
+
+
+
+
+28. Kaip vadinama Mėnulio fazė, kai Mėnulis atsiduria tiesiai tarp Žemės ir Saulės?
+*A Jaunatis
+B Delčia
+C Pilnatis
+D Priešpilnis
+
+
+
+
+
+29. Kokį tolimos žvaigždės gyvavimo tarpsnį stebi astronomai, žiūrėdami į ją pro teleskopą?
+A Dabartį
+*B Praeitį
+C Ateitį
+D Teisingi A ir B atsakymai
+
+
+
+
+
+30. Plutono orbitos spindulys 40 av, o Neptūno orbitos spindulys 30 av. Kurio dangaus kūno skriejimo aplink Saulę periodas yra ilgesnis ir kiek apytiksliai kartų?
+A Neptūno, 1,6 karto
+*B Plutono, 1,5 karto
+C Neptūno, 1,4 karto
+D Plutono, 1,3 karto
+
+$ \frac{T_{\text{Pluto}}^2}{T_{\text{Neptune}}^2} = \frac{a_{\text{Pluto}}^3}{a_{\text{Neptune}}^3} = \frac{40^3}{30^3} = \frac{64000}{27000} \approx 2.37$     $\sqrt{2.37} = 1.53948...$
+
+
+
+
+
+
+
 
 
 
