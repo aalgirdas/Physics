@@ -14,7 +14,7 @@ B 10 N – 36 N
 C 12 N – 24 N
 *D 12 N – 36 N
 
-
+$F_{max} = F_1 + F_2 = 36$ $F_{min} = F_2 - F_1 = 12$
 
 
 
@@ -38,7 +38,7 @@ D 4 kartus
 
 
 
-05. Paveiksle pavaizduoti penki vienodi rutuliukai, kurie surišti lengvu netampriu siūlu, permestu per lengvą skridinį. Kokio didumo pagreitį įgis tokia surištų rutuliukų sistema? Laisvojo kritimo pagreitis 10 $m/s^2$. Trinties nepaisykite. [](https://drive.google.com/file/d/1dXjOCigaxVU-aSLozZLllU0UYtvo-S3O/view?usp=drive_link)
+05. Paveiksle pavaizduoti penki vienodi rutuliukai, kurie surišti lengvu netampriu siūlu, permestu per lengvą skridinį. Kokio didumo pagreitį įgis tokia surištų rutuliukų sistema? Laisvojo kritimo pagreitis 10 $m/s^2$. Trinties nepaisykite. [](https://drive.google.com/uc?id=1dXjOCigaxVU-aSLozZLllU0UYtvo-S3O)
 A 1 $m/s^2$
 *B 2 $m/s^2$
 C 3 $m/s^2$
@@ -58,7 +58,7 @@ D $v = \omega^2 \cdot R$
 
 
 
-07. Planetos X masė ir spindulys yra dvigubai didesni už planetos Y masę ir spindulį. Palyginkite laisvojo kritimo pagreitį gX planetos X paviršiuje su laisvojo kritimo pagreičiu gY planetos Y  paviršiuje.
+07. Planetos X masė ir spindulys yra dvigubai didesni už planetos Y masę ir spindulį. Palyginkite laisvojo kritimo pagreitį $g_x$ planetos X paviršiuje su laisvojo kritimo pagreičiu $g_x$ planetos Y  paviršiuje.
 A $g_x = 2g_y$
 B $g_x = 4g_y$
 *C $g_x = g_y/2$
@@ -108,7 +108,7 @@ D Iš tarpo tarp plokštelių pašalinti dielektriką
 
 
 
-12. Paveiksle pavaizduotą elektros grandinę sudaro rezistoriai R1 ir R2, du idealieji diodai ir galvaninis elementas (jo vidinės varžos nepaisoma). Kai gnybtas A prijungiamas prie galvaninio elemento teigiamojo poliaus, o gnybtas B – prie neigiamojo, grandinės vartojama galia lygi 7,2 W. Kai tas pats galvaninis elementas prijungiamas, sukeitus gnybtų ženklus, grandinės vartojama elektros energijos galia tampa 14,4 W. Kam lygus rezistorių varžų santykis $\frac{R_1}{R_2}$? [](https://drive.google.com/file/d/1Xa_cwklPF8CmLpO9FnKd_dN7AniK7iqb/view?usp=sharing)
+12. Paveiksle pavaizduotą elektros grandinę sudaro rezistoriai R1 ir R2, du idealieji diodai ir galvaninis elementas (jo vidinės varžos nepaisoma). Kai gnybtas A prijungiamas prie galvaninio elemento teigiamojo poliaus, o gnybtas B – prie neigiamojo, grandinės vartojama galia lygi 7,2 W. Kai tas pats galvaninis elementas prijungiamas, sukeitus gnybtų ženklus, grandinės vartojama elektros energijos galia tampa 14,4 W. Kam lygus rezistorių varžų santykis $\frac{R_1}{R_2}$? [](https://drive.google.com/uc?id=1Xa_cwklPF8CmLpO9FnKd_dN7AniK7iqb)
 A 1/2
 B 1/4
 *C 2
@@ -128,7 +128,7 @@ D Elektronai ir skylės
 
 
 
-14. Paveiksle pavaizduotoje elektros grandinės dalyje viršutine šaka teka I = 3 A stiprio elektros srovė, R1 = 10 Ω ir R2 = 30 Ω. Kam lygi bendra šios grandinės dalies varža ir įtampa tarp taškų A ir B? [](https://drive.google.com/file/d/1Oc9Z3QR04swwrndKV-tq-ZjkK4cNhcg3/view?usp=sharing)
+14. Paveiksle pavaizduotoje elektros grandinės dalyje viršutine šaka teka I = 3 A stiprio elektros srovė, R1 = 10 Ω ir R2 = 30 Ω. Kam lygi bendra šios grandinės dalies varža ir įtampa tarp taškų A ir B? [](https://drive.google.com/uc?id=1Oc9Z3QR04swwrndKV-tq-ZjkK4cNhcg3)
 A 40 Ω, 120 V
 B 40 Ω, 30 V
 C 7,5 Ω, 120 V
@@ -148,7 +148,7 @@ D 1,1 karto sumažės
 
 
 
-16. Elektromagnetinei indukcijai demonstruoti naudojama ritė, strypinis magnetas ir galvanometras G. Kuriuo atveju pagal galvanometro rodmenis galima nuspręsti, kad magnetas nejuda? [](https://drive.google.com/file/d/11P1I7vIH2EmkzzOwXWAfJJ-zsp2kRunw/view?usp=sharing)
+16. Elektromagnetinei indukcijai demonstruoti naudojama ritė, strypinis magnetas ir galvanometras G. Kuriuo atveju pagal galvanometro rodmenis galima nuspręsti, kad magnetas nejuda? [](https://drive.google.com/uc?id=11P1I7vIH2EmkzzOwXWAfJJ-zsp2kRunw)
 A a ir b
 B Tik b
 C a ir c
@@ -168,7 +168,7 @@ D Vandenyje
 
 
 
-18. Šviesos spindulys iš oro pereina į stiklo plokštelę, krisdamas į ją statmenai. Kokia bus tolesnė šio spindulio eiga?
+18. Šviesos spindulys iš oro pereina į stiklo plokštelę, krisdamas į ją statmenai. Kokia bus tolesnė šio spindulio eiga? [](https://drive.google.com/uc?id=1dq2xUdxToV6S3-MjgKUBPAhP0D2IHxgo) 
 A  
 *B 
 C 
@@ -208,7 +208,7 @@ D Sumažėtų keturis kartus
 
 
 
-22. Sujungus paveiksle pavaizduotą kintamosios elektros srovės grandinę, stebimas rezonansas. Kam lygus ritės ir kondensatoriaus reaktyviųjų varžų santykis $\frac{X_L}{X_C}$? [](https://drive.google.com/file/d/1DyYzhGj9_10LwowoZCxtj8nVOmF03X_w/view?usp=sharing)
+22. Sujungus paveiksle pavaizduotą kintamosios elektros srovės grandinę, stebimas rezonansas. Kam lygus ritės ir kondensatoriaus reaktyviųjų varžų santykis $\frac{X_L}{X_C}$? [](https://drive.google.com/uc?id=1DyYzhGj9_10LwowoZCxtj8nVOmF03X_w)
 *A 1
 B 2
 C 3
@@ -238,7 +238,7 @@ C Elektronų stabdymo įtampa
 
 
 
-25. Urano rūdoje rasta $^{234}_{92}\text{U}$ , $^{235}_{92}\text{U}$ ir $^{238}_{92}\text{U}$ izotopų. Kurioje eilutėje vieno iš šių izotopų branduolio sudėtis nurodyta teisingai?
+25. Urano rūdoje rasta $^{234}_{92}\mathrm{U}$ , $^{235}_{92}\mathrm{U}$ ir $^{238}_{92}\mathrm{U}$ izotopų. Kurioje eilutėje vieno iš šių izotopų branduolio sudėtis nurodyta teisingai?
 *A Protonų skaičius 92  Neutronų skaičius 146
 B Protonų skaičius 146  Neutronų skaičius 92
 C Protonų skaičius 235  Neutronų skaičius 147
@@ -294,7 +294,7 @@ A Neptūno, 1,6 karto
 C Neptūno, 1,4 karto
 D Plutono, 1,3 karto
 
-$ \frac{T_{\text{Pluto}}^2}{T_{\text{Neptune}}^2} = \frac{a_{\text{Pluto}}^3}{a_{\text{Neptune}}^3} = \frac{40^3}{30^3} = \frac{64000}{27000} \approx 2.37$     $\sqrt{2.37} = 1.53948...$
+$ \frac{T_{\mathrm{Pluto}}^2}{T_{\mathrm{Neptune}}^2} = \frac{a_{\mathrm{Pluto}}^3}{a_{\mathrm{Neptune}}^3} = \frac{40^3}{30^3} = \frac{64000}{27000} \approx 2.37$     $\sqrt{2.37} = 1.53948...$
 
 
 
