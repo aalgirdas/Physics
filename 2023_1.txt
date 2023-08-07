@@ -298,6 +298,179 @@ $ \frac{T_{\mathrm{Pluto}}^2}{T_{\mathrm{Neptune}}^2} = \frac{a_{\mathrm{Pluto}}
 
 
 
+II-1 Variklio galia. Koks SI matavimo vienetų žymėjimas?
+A Džiaulis (J)
+B Kelvinas (K)
+C Niutonas (N)
+*D Vatas (W)
+
+
+
+
+
+II-2 Mechaninis įtempis. Koks SI matavimo vienetų žymėjimas?
+*A Paskalis (Pa)
+B Niutonas (N)
+C Džiaulis (J)
+D Kelvinas (K)
+
+
+
+
+
+II-3 Magnetinės indukcijos srautas. Koks SI matavimo vienetų žymėjimas?
+A Amperas (A)
+*B Vėberis  (Wb)
+C Tesla (T)
+D Henris (H)  
+
+
+
+
+
+II-4 Svyravimų periodas. Koks SI matavimo vienetų žymėjimas?
+A Metras (m)
+B Hercas (Hz)
+*C Sekundė (s)
+D Niutonas (N)
+
+
+
+
+
+II-5 Šviesos kvanto impulsas. Koks SI matavimo vienetų žymėjimas?
+A Kulonas (C)
+*B Niutonas sekundė (Ns) 
+C Sekundė (s)
+D Kandela  (cd)
+
+
+
+
+
+II-6 Bandymų metu 25 m/s greičiu važiuojantis automobilis atsitrenkia į sieną ir staigiai sustoja, o 65 kg masės vairuotojo manekenas dar 0.2 s juda iš inercijos, kol jį sustabdo saugos diržai. Apskaičiuokite jėgos, kuri veikia manekeną, vidutinę vertę niutonais.
+A  7127 (N)
+*B 8125 (N)
+C 5134 (N)
+D 18478 (N)
+
+$F = \frac{Δp}{t} = \frac{m \cdot v}{t} = \frac{25 \cdot 65}{0.2} = 25*65/0.2 = 8125$
+
+
+
+II-7 Idealiųjų vienatomių dujų slėgis lygus 15 kPa, o atomų koncentracija yra $3 \cdot 10^{25} m^{−3}$. Kam lygi šių dujų vieno atomo slenkamojo judėjimo vidutinė kinetinė energija džauliais? 
+*A $7.5 \cdot 10^{-22}$
+B $9.4 \cdot 10^{-22}$
+C $6.5 \cdot 10^{-22}$
+D $7.2 \cdot 10^{-22}$
+
+$p=\frac{1}{3} m_0 n v^2 = \frac{2}{3} n  \frac{m_0 v^2}{2} = \frac{2}{3} n  E_k$   =>  $E_k = \frac{3}{2} \frac{p}{n} = \frac{3}{2} \frac{15000}{3 \cdot 10^{25}} = 7.5 \cdot 10^{-22}$
+
+
+
+II-8 Elektros lemputės, kurios galia 60 W, standartinė įtampa yra 220 V. Kam bus lygi lemputėje išsiskyrusios elektros srovės galia vatais, jei lemputei tiekiama įtampa sumažės dvigubai? Laikykite, kad, mažinant įtampą, lemputės varža nekinta.
+A 52 (W)
+B 17  (W)
+*C 15 (W)
+D 5  (W)
+
+$P=UI=\frac{U^2}{R}$ => $R=UI=\frac{U^2}{P}=\frac{220^2}{60}=806.66(6)$ => $P_2=\frac{110^2}{R}=\frac{110^2 60}{220^2} = 15 (W)$
+
+
+
+II-9 Kondensatoriaus reaktyvioji varža 600 Hz dažnio kintamosios srovės grandinėje yra 2.2 kΩ. Kokia būtų šio kondensatoriaus reaktyvioji varža omais 2.4 kHz dažnio kintamosios srovės grandinėje?
+A 510 (Ω)
+B 560 (Ω)
+C 540 (Ω)
+*D 550 (Ω)
+
+$X_C=\frac{1}{ωC}$ => $C=\frac{1}{ωX_C}=\frac{1}{600 * 2200}$ => $X2_C=\frac{1}{ω_2C}=\frac{1}{2400C}=\frac{600 * 2200}{2400} = 550 $
+
+
+
+II-10  Kuri dalis radioaktyviųjų francio $^{221}_{87}\mathrm{Fr}$ izotopo branduolių suskils per laiką, lygų trims pusėjimo trukmėms?
+A 0.125
+B 1.025
+C 0.025
+*D 0.875
+
+Po pirmo pusėjimo liko $\frac{1}{2} $. Po antro pusėjimo liko $\frac{1}{2} * \frac{1}{2}$. Po antro pusėjimo liko $\frac{1}{2} * \frac{1}{2} * \frac{1}{2} = 0.125$ => Reiškia sumažėjo $1-0.125=0.875$
+
+
+
+III-1 Nuo 10 m/s greičiu tiesiu kelio ruožu važiuojančio traukinio atkabintas $10^4$ kg masės paskutinis vagonas lėtėja pastoviu $0.25 m/s^2$ pagreičiu, o traukinys toliau važiuoja tuo pačiu greičiu. 1.1 Kokio didumo jėga stabdo atkabintą vagoną?
+A 2700 (N)
+*B 2500 (N)
+C 25000 (N) 
+D 26000 (N) 
+
+$F=ma=10^4 * 0.25 = 2500$
+
+
+
+III-1 Nuo 10 m/s greičiu tiesiu kelio ruožu važiuojančio traukinio atkabintas $10^4$ kg masės paskutinis vagonas lėtėja pastoviu $0.25 m/s^2$ pagreičiu, o traukinys toliau važiuoja tuo pačiu greičiu. 1.2 Kokį atstumą nuvažiuos atkabintas vagonas, kol sustos?
+A 2000 (m)
+*B 200 (m)
+C 20 (m) 
+D 250 (m) 
+
+$a=\frac{v-v_0}{t}$ => $t=\frac{v-v_0}{a}=\frac{10-0}{0.25}=40 (s)$   $L=v_0 \cdot t - \frac{a t^2}{2} = 10 * 40 - \frac{0.25 * 40^2}{2}=200$
+
+
+
+III-1 Nuo 10 m/s greičiu tiesiu kelio ruožu važiuojančio traukinio atkabintas $10^4$ kg masės paskutinis vagonas lėtėja pastoviu $0.25 m/s^2$ pagreičiu, o traukinys toliau važiuoja tuo pačiu greičiu. 1.3 Pateikite atkabinto vagono greičio priklausomybės nuo laiko išraišką $v = v(t)$.
+A $v(t)=100-0.025t$
+B $v(t)=10+0.25t$
+*C $v(t)=10-0.25t$
+D $v(t)=100-0.5t$
+
+$a=\frac{v-v_0}{t}$ => $v=v_0+at=10-0.25t$ nes a=-0.25
+
+
+
+III-1 Nuo 10 m/s greičiu tiesiu kelio ruožu važiuojančio traukinio atkabintas $10^4$ kg masės paskutinis vagonas lėtėja pastoviu $0.25 m/s^2$ pagreičiu, o traukinys toliau važiuoja tuo pačiu greičiu. 1.4 Užrašykite išraišką, pagal kurią būtų galima apskaičiuoti pasipriešinimo jėgų darbą, atliktą visiškai sustabdant atkabintą vagoną.
+*A A=Fs
+B A=F/s
+C A=s/F 
+D $A=F/s^2$
+
+
+
+
+
+III-1 Nuo 10 m/s greičiu tiesiu kelio ruožu važiuojančio traukinio atkabintas $10^4$ kg masės paskutinis vagonas lėtėja pastoviu $0.25 m/s^2$ pagreičiu, o traukinys toliau važiuoja tuo pačiu greičiu. 1.5 Su kuo susietą atskaitos sistemą (su važiuojančiu traukiniu ar su atkabintu vagonu) stotyje esantis stebėtojas gali laikyti inercine atskaitos sistema?
+*A Su traukiniu
+B Su vagonu
+C Su traukiniu ir vagonu
+D Nei su vienu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
