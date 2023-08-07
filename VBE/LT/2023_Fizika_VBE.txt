@@ -688,7 +688,7 @@ D Atspindys
 
 
 
-III-7 Tyrinėdami branduolinius virsmus, mokslininkai nustatė, kad pateiktos helio ir vandenilio izotopų sintezės reakcijos metu išsiskiria 18.35 MeV energijos. $^{3}_{2}\mathrm{He} + ^{2}_{1}\mathrm{D} \righarrow ^{4}_{2}\mathrm{He} + ^{1}_{1}\mathrm{H}$ 1. Įvardykite elementariąsias daleles, kurių skaičiumi skiriasi elemento izotopų branduoliai.
+III-7 Tyrinėdami branduolinius virsmus, mokslininkai nustatė, kad pateiktos helio ir vandenilio izotopų sintezės reakcijos metu išsiskiria 18.35 MeV energijos. $^{3}_{2}\mathrm{He} + ^{2}_{1}\mathrm{D} \rightarrow ^{4}_{2}\mathrm{He} + ^{1}_{1}\mathrm{H}$ 1. Įvardykite elementariąsias daleles, kurių skaičiumi skiriasi elemento izotopų branduoliai.
 A Protonai
 *B Neutronai
 C Protonai ir elektronai
@@ -718,7 +718,7 @@ D Išsiskiria deguonis
 
 
 
-III-7  $^{3}_{2}\mathrm{He} + ^{2}_{1}\mathrm{D} \righarrow ^{4}_{2}\mathrm{He} + ^{1}_{1}\mathrm{H}$ 4. Kurioje pateiktos sintezės reakcijos lygties pusėje – kairėje ar dešinėje – branduolių rimties masių suma yra didesnė? Atsakymą pagrįskite.
+III-7  $^{3}_{2}\mathrm{He} + ^{2}_{1}\mathrm{D} \rightarrow ^{4}_{2}\mathrm{He} + ^{1}_{1}\mathrm{H}$ 4. Kurioje pateiktos sintezės reakcijos lygties pusėje – kairėje ar dešinėje – branduolių rimties masių suma yra didesnė? Atsakymą pagrįskite.
 *A Kairėje
 B Dešinėje
 C Kairėje ir dešinėje
