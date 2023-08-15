@@ -441,44 +441,4 @@ pv=knT  $p_2v=kn_2T_2$     $195000*0.83=8.3*n_2*300$   => $n_2=65$  => $n_2-n_1=
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- 
-
- 
- 
-
-
-
-
-
 {'quiz_name': '2021 high school final exam; Physics; Ukraine', 'quiz_author': 'Algirdas Laukaitis'}
