@@ -376,7 +376,7 @@ D
 
 
 
-
+{'question type':'text_box'}
 
 26-1. A cylinder with a volume of 0.83 $m^3$ at a temperature of 250 K under a pressure of 100 kPa is filled with oxygen. After more oxygen was added to the cylinder, the pressure of the gas increased to 195 kPa, and its temperature increased to 300 K. Note that the molar mass of oxygen is 32 g/mol, and the universal gas constant is 8.3 J/(mol · K ). Calculate the amount of substance in the cylinder before adding oxygen. Write the answer in moles (mol).
 40 mol
@@ -418,24 +418,125 @@ pv=knT  $p_2v=kn_2T_2$     $195000*0.83=8.3*n_2*300$   => $n_2=65$  => $n_2-n_1=
 
 {'question type':'text_box'}
 
+28-1. Free electromagnetic oscillations occur in the oscillating circuit. The figure shows the graph of the dependence of the current strength on time. The inductance of the circuit coil is equal to 50 mH. 1. Determine the period of fluctuations of the current in the circuit. Write the answer in milliseconds (ms).
+4
 
 
 
 
 
 
+{'question type':'text_box'}
+
+28-2. Free electromagnetic oscillations occur in the oscillating circuit. The figure shows the graph of the dependence of the current strength on time. The inductance of the circuit coil is equal to 50 mH. 2. Determine the capacitance of the oscillating circuit capacitor. Note that $π^2=10$. Write the answer in microfarads (μF). [](https://drive.google.com/uc?id=1LrfhPja0Kx9NR6bu4M3T83ToR8eFSytF)     
+8
+
+
+
+
+$T=2π\sqrt{LC}$ => $C=T^2/(4*π^2*L)$ => $C=4^2/(4*π^2*50*10^{-3})$
+
+{'question type':'text_box'}
+
+292 At what speed does the swing pass the lower point, if the weight of a 40 kg child at this point is 800 N? The length of the suspension of the swing is 2.5 m. Note that the acceleration of free fall is 10 $m/s^2$. Write the answer in meters per second (m/s).
+5
+
+
+
+
+$ma=T-mg$ => $40*a=800-40*10$ => $a=10$  => $a=v^2/R$ => $v=\sqrt{a*R}=5$
+
+{'question type':'text_box'}
+
+30. The force of gravity acting on the Earth's artificial satellite is 4 kN. Determine the kinetic energy of the satellite if the radius of its circular orbit is 10000 km. Write the answer in gigajoules (GJ).
+20
+
+
+
+
+$ma=F=m*v^2/R$ => $E=mv^2/2$  => $E=F*R/2$ => 4000*10000*1000/2=20
+
+{'question type':'text_box'}
+
+31. A concrete cylindrical pillar lying on the horizontal bottom of a deep lake was placed vertically by divers. The height of the pillar is 4 m, the weight is 600 kg. Determine the minimum work the divers had to do in lifting the pole. Note that the density of concrete is 2000 $kg/m^3$, the density of water is 1000 $kg/m3$, and the acceleration of free fall is 10 $m/s^2$. Do not take into account the transverse dimensions of the pillar. Write the answer in kilojoules (kJ).
+6
 
 
 
 
 
 
+{'question type':'text_box'}
+
+32. As a result of isothermal compression of an ideal gas from a volume of 8 l to a volume of 6 l, its pressure increased by 4 kPa. Determine the initial pressure of the gas. Write the answer in kilopascals (kPa).
+12
 
 
 
 
 
 
+{'question type':'text_box'}
+
+33. At an air temperature of 25 °C, its relative humidity is 80%. The air is cooled. At what air temperature will fog begin to form? Write the answer in degrees Celsius (°C) and round to the nearest unit. [](https://drive.google.com/uc?id=1s9IhBNgy7W9662KqV-gZ-6jWcqjUlUZ-)  
+21
+
+
+
+
+
+
+{'question type':'text_box'}
+
+34. Three capacitors of the same electrical capacity are connected to a direct current circuit. Determine how many times the energy of the electric field of capacitor 1 is greater than the energy of the electric field of capacitor 2. [](https://drive.google.com/uc?id=1XZZ1MMZLMv95G59C4Q26O27jOfaMYlvi) 
+4
+
+
+
+
+$U_1=Q/C$   $U_2=Q/(2C)$  $E_1=C*U_1^2/2$   $E_2=C*U_2^2/2$   $E_1/E_2=4$
+
+{'question type':'text_box'}
+
+35. A section of copper wire with a resistance of 1 Ohm was polished, as a result of which its diameter was reduced by half. What was the resistance of this wire after grinding? Write the answer in ohms (Ohm).
+4
+
+
+
+
+$R=\frac{ρL}{πr^2}$
+
+{'question type':'text_box'}
+
+36. The cart, connected by a spring to the wall, carries out harmonic oscillations. Extreme left position is 10 cm, the extreme right position of this cart during oscillation is 40 cm. Determine the amplitude of oscillations of the cart.
+15
+
+
+
+
+(40-10)/2=15
+
+{'question type':'text_box'}
+
+37. With the help of a lens with a focal length of 20 cm, an image of the house was obtained on a vertical screen. The housing is located on the main optical axis of the lens. The height of the image is 12 mm, the real height of the house is 6 m. Determine the distance between the lens and the house. Write the answer in meters (m) and round to the nearest unit.
+100
+
+
+
+
+1/(0.2+x)+1/d=1/0.2 ; 6/d=0.012/(0.2+x)   d=100.2  
+
+{'question type':'text_box'}
+
+38. A drop of water weighing 0.5 g absorbs $2.1 x 10^18$ photons of radiation with a wavelength of 600 nm every second. How much will the temperature of the drop increase in 1 minute? The specific heat capacity of water is 4200 J/(kg · K), the speed of light is $3 · 10^8$ m/s, Planck's constant is $6.63 · 10^{-34}$ J · s. Write the answer in kelvins (K) and round to the nearest unit.
+20
+
+
+
+
+Q=60*nhf=nhc/λ= $60*2.1*10^18 * 6.63*10^{-34} * 3*10^8/(600*10^{-9})$ =41.77 J  $Q=mC(T_2-T_1)$   $(T_2-T_1)=Q/mC$      $(T_2-T_1)=41.77/(0.5*10^{-3}*4200)=19.89$
+
+{'question type':'text_box'}
 
 
 
