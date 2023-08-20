@@ -58,6 +58,16 @@ $λ=h/p=h/\sqrt{2mE}$ => $E_2/E=(λ/λ_2)^2=(4/3)^2$ => $E_2=(λ/λ_2)^2=16/9*E$
 
 
 
+Q7. Match List-I with List-II: [](https://drive.google.com/uc?id=1vQjmp5rV1WLno5eHo9fG3ecNx-VnALEH) 
+(A) 
+(B) 
+(C) 
+*(D) 
+
+
+
+
+
 Q8. A cylindrical container of volume $4.0×10^{–3} m^3$ contains one mole of hydrogen and two moles of carbon dioxide. Assume the temperature of the mixture is 400 K. The pressure of the mixture of gases is: [Take gas constant as $8.3 J mol^{–1} K^{–1}$ ] 
 (A) 24.9 Pa 
 (B) 24.9 × $10^3$ Pa
@@ -99,10 +109,10 @@ $N=N(0)e^{-λt}$  $dN_B/dt=d(1-N_A)/dt+dN_B/dt=λN_A(t)-λN_B(t)$   $dN_B/dt=0$ 
 {'web':'https://www.sarthaks.com/1237467/at-time-t-0-a-material-is-composed-of-two-radioactive-atoms-a-and-b-where-na-0-2nb-0'}
 
 Q12. The two thin coaxial rings, each of radius ‘a’ and having charges +Q and –Q respectively are separated by a distance of ‘s’. The potential difference between the centres of the two rings is: 
-*(A) Q/(2πε_0)(\frac{1}{a}-\frac{1}{\sqrt{s^2+a^2}})
-(B) Q/(4πε_0)(\frac{1}{a}-\frac{1}{\sqrt{s^2+a^2}}) 
-(C) Q/(2πε_0)(\frac{1}{a}+\frac{1}{\sqrt{s^2+a^2}}) 
-(D) Q/(4πε_0)(\frac{1}{a}+\frac{1}{\sqrt{s^2+a^2}}) 
+*(A) $Q/(2πε_0)(\frac{1}{a}-\frac{1}{\sqrt{s^2+a^2}})$
+(B) $Q/(4πε_0)(\frac{1}{a}-\frac{1}{\sqrt{s^2+a^2}})$ 
+(C) $Q/(2πε_0)(\frac{1}{a}+\frac{1}{\sqrt{s^2+a^2}})$ 
+(D) $Q/(4πε_0)(\frac{1}{a}+\frac{1}{\sqrt{s^2+a^2}})$ 
 
 
 
@@ -148,14 +158,14 @@ $T=2π\SQRT{l/g}$  (sqrt(1.001)-1)*24*60*60 = 43.2
 
 
 
-Q17. Two blocks of masses 3 kg and 5 kg are connected by a metal wire going over a smooth pulley. The breaking stress of the metal is $24/π 10^2 Nm^{-2}$ . What is the
-minimum radius of the wire?
+Q17. Two blocks of masses 3 kg and 5 kg are connected by a metal wire going over a smooth pulley. The breaking stress of the metal is $24/π 10^2 Nm^{-2}$ . What is the minimum radius of the wire?
 (A) 1250 cm
 (B) 125 cm
 *(C) 12.5 cm
 (D) 1.25 cm 
 
 $T=2m_1m_2g/(m_1+m_2)=75/2$     $T/(πr^2)=24/π 10^2$
+
 
 
 Q18. A transmitting antenna at top of a tower has a height of 50 m and the height of receiving antenna is 80 m. What is the range of communication for Line of Sight (LoS) mode? [use radius of earth =6400 km]
@@ -169,10 +179,10 @@ $(R+h_1)^2=d_1^2+R^2$  $(R+h_2)^2=d_2^2+R^2$   $d=d_1+d_2$
 
 
 Q19. A parallel-plate capacitor with plate area A has separation d between the plates. Two dielectric slabs of dielectric constant $K_1$ and $K_2$ of same area A/2 and thickness d/2 are inserted in the space between the plates. The capacitance of the capacitor will be given by: [](https://drive.google.com/uc?id=1W2KMHsw6ScXnTWQe5wQOBGNhgvGVxqM9)
-(A) $\frac{ε_0A}{d} \big( \frac{1}{2} + \frac{K_1+K_2}{K_1K_2} \big)$ 
-(B) $\frac{ε_0A}{d} \big( \frac{1}{2} + \frac{2(K_1+K_2)}{K_1K_2} \big)$ 
-*(C) $\frac{ε_0A}{d} \big( \frac{1}{2} + \frac{K_1K_2}{K_1+K_2} \big)$
-(D) $\frac{ε_0A}{d} \big( \frac{1}{2} + \frac{K_1K_2}{2(K_1+K_2)} \big)$ 
+(A) $\frac{ε_0A}{d} ( \frac{1}{2} + \frac{K_1+K_2}{K_1K_2} )$ 
+(B) $\frac{ε_0A}{d} ( \frac{1}{2} + \frac{2(K_1+K_2)}{K_1K_2} )$ 
+*(C) $\frac{ε_0A}{d} ( \frac{1}{2} + \frac{K_1K_2}{K_1+K_2} )$
+(D) $\frac{ε_0A}{d} ( \frac{1}{2} + \frac{K_1K_2}{2(K_1+K_2)} )$ 
 
 C=C_3+\frac{C_1C_2}{C_1+C_2}
 
