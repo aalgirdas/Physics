@@ -1,0 +1,303 @@
+Q1. A refrigerator consumes an average 35 W power to operate between temperature –10°C to 25°C. If there is no loss of energy then how much average heat per second does it transfer?
+(A) 350 J/s 
+(B) 298 J/s
+(C) 35 J/s 
+*(D) 263 J/s 
+
+$k=Q_C/W=T_C/(T_H-T_C)$ => $Q_C/35=263/(298-263)=263$
+
+
+
+Q2. The angle between vector $(\vec{A})$ and $(\vec{A}-\vec{B})$ is: [](https://drive.google.com/uc?id=18Mm7iUbtDT2MzdR2EhILGJRqufrBjCVw) 
+*(A) 
+(B) 
+(C) 
+(D) 
+
+
+
+
+
+Q3. Four NOR gates are connected as shown in figure. The truth table for the given figure is: [](https://drive.google.com/uc?id=1S4GJw8TzsSKFmcKh7X3NIcU2v344YwT3) 
+*(A) 
+(B) 
+(C) 
+(D)
+
+
+
+{'youtube':'https://www.youtube.com/watch?v=gODZliTJmM8'}
+
+Q4. An electric bulb of 500 watt at 100 volt is used in a circuit having a 200 V supply. Calculate the resistance R to be connected in series with the bulb so that the power delivered by the bulb is 500 W.
+*(A) 20 Ω
+(B) 5 Ω
+(C) 10 Ω 
+(D) 30 Ω 
+
+
+
+{'youtube':'https://www.youtube.com/watch?v=KQd9aXfmghA'}
+
+Q5. If you are provided a set of resistances 2 Ω, 4 Ω, 6 Ω and 8 Ω. Connect these resistances so as to obtain an equivalent resistance of 46/3 Ω.
+(A) 4 Ω and 6 Ω are in parallel with 2 Ω and 8 Ω in series.
+(B) 6 Ω and 8 Ω are in parallel with 2 Ω and 4 Ω in series.
+*(C) 2 Ω and 4 Ω are in parallel with 6 Ω and 8 Ω in series.
+(D) 2 Ω and 6 Ω are in parallel with 4 Ω and 8 Ω in series. 
+
+
+
+
+
+Q6. The de-Broglie wavelength of a particle having kinetic energy E is λ. How much extra energy must be given to this particle so that the de-Broglie wavelength reduces to 75% of the initial value?
+(A) 1/9 E
+(B) 1 E
+(C) 16/9 E
+*(D) 7/9 E
+
+$λ=h/p=h/\sqrt{2mE}$ => $E_2/E=(λ/λ_2)^2=(4/3)^2$ => $E_2=(λ/λ_2)^2=16/9*E$ => $E_2-E=7/9*E$
+
+
+
+Q8. A cylindrical container of volume $4.0×10^{–3} m^3$ contains one mole of hydrogen and two moles of carbon dioxide. Assume the temperature of the mixture is 400 K. The pressure of the mixture of gases is: [Take gas constant as $8.3 J mol^{–1} K^{–1}$ ] 
+(A) 24.9 Pa 
+(B) 24.9 × $10^3$ Pa
+*(C) 24.9 × $10^5$ Pa 
+(D) 249 × $10^1$ Pa 
+
+$p=nRT/V=(1+2)*8.3*400/(4*10^{-3})=24.9 * 10^5$
+
+
+
+Q9. In the given circuit the AC source has ω = 100 rad $s^{–1}$. Considering the inductor and capacitor to be ideal, what will be the current I flowing through the circuit? [](https://drive.google.com/uc?id=1aypA0P5TShf79M4I5499j2msd6iI1pSq) 
+(A) 5.9 A
+*(B) 4.24 A
+(C) 6 A
+(D) 0.94 A
+
+
+
+{'youtube':'https://www.youtube.com/watch?v=KQd9aXfmghA' , 'web':'https://circuitglobe.com/phasor-method-for-solving-parallel-circuits.html'}
+
+Q10. A particle of mass m is suspended form a ceiling through a string of length L. The particle moves in a horizontal circle of radius r such that $r=L/\sqrt{2}$ . The speed of particle will be:
+*(A) $\sqrt{rg}$
+(B) $\sqrt{rg/2}$
+(C) $2\sqrt{rg}$ 
+(D) $\sqrt{2rg}$ 
+
+
+
+
+
+Q11. At time t = 0, a material is composed of two radioactive atoms A and B, where $N_A(0) = 2N_B(0)$ . The decay constant of both kind of radioactive atoms is λ. However, A disintegrates to B and B disintegrates to C. Which of the following figures represents the evolution of $N_B(t)/N_B(0)$ with respect to time t ? [](https://drive.google.com/uc?id=1sQXgtf5NgM0BYL5ABWPf7mzWZ9RikaLu) 
+*(A) 
+(B) 
+(C) 
+(D) 
+
+$N=N(0)e^{-λt}$  $dN_B/dt=d(1-N_A)/dt+dN_B/dt=λN_A(t)-λN_B(t)$   $dN_B/dt=0$ => $t=1/(2λ)$
+
+{'web':'https://www.sarthaks.com/1237467/at-time-t-0-a-material-is-composed-of-two-radioactive-atoms-a-and-b-where-na-0-2nb-0'}
+
+Q12. The two thin coaxial rings, each of radius ‘a’ and having charges +Q and –Q respectively are separated by a distance of ‘s’. The potential difference between the centres of the two rings is: 
+*(A) Q/(2πε_0)(\frac{1}{a}-\frac{1}{\sqrt{s^2+a^2}})
+(B) Q/(4πε_0)(\frac{1}{a}-\frac{1}{\sqrt{s^2+a^2}}) 
+(C) Q/(2πε_0)(\frac{1}{a}+\frac{1}{\sqrt{s^2+a^2}}) 
+(D) Q/(4πε_0)(\frac{1}{a}+\frac{1}{\sqrt{s^2+a^2}}) 
+
+
+
+{'web':'https://phys.libretexts.org/Bookshelves/University_Physics/Book%3A_University_Physics_%28OpenStax%29/Book%3A_University_Physics_II_-_Thermodynamics_Electricity_and_Magnetism_%28OpenStax%29/07%3A_Electric_Potential/7.04%3A_Calculations_of_Electric_Potential'}
+
+Q13. A bomb is dropped by a fighter plane flying horizontally. To an observer sitting in the plane, the trajectory of the bomb is a:
+(A) hyperbola
+(B) parabola in the direction of motion of plane
+*(C) straight line vertically down the plane
+(D) parabola in a direction opposite of the motion of plane 
+
+
+
+
+
+Q14. The solid cylinder of length 80 cm and mass M has a radius of 20 cm. Calculate the density of the material used if the moment of inertia of the cylinder about an axis CD parallel to AB as shown in figure is 2.7 kg $m^2$ 
+(A) $7.5×10 kg/m^3$
+*(B) $1.49×10^2 kg/m^3$ 
+(C) $14.9 kg/m^3$ 
+(D) $7.5×10^2 kg/m^3$ 
+
+$I=1/2×M×r^2+M(L/2)^2=2.7$
+
+
+
+Q15. A light beam is described by E=800sin(t-x/c). An electron is allowed to move normal to the propagation of light beam with a speed of $3 × 10^7$  m/s. What is the maximum magnetic force exerted on the electron? 
+(A) $1.28×10^{-21} N$ 
+(B) $1.28×10^{-18} N$
+(C) $12.8×10^{-17} N$
+*(D) $12.8×10^{-18} N$
+
+B=E/c   F=evB
+
+
+
+Q16. If the length of the pendulum in pendulum clock increases by 0.1%, then the error in time per day is
+(A) 8.64 s 
+*(B) 43.2 s
+(C) 86.4 s 
+(D) 4.32 s 
+
+$T=2π\SQRT{l/g}$  (sqrt(1.001)-1)*24*60*60 = 43.2
+
+
+
+Q17. Two blocks of masses 3 kg and 5 kg are connected by a metal wire going over a smooth pulley. The breaking stress of the metal is $24/π 10^2 Nm^{-2}$ . What is the
+minimum radius of the wire?
+(A) 1250 cm
+(B) 125 cm
+*(C) 12.5 cm
+(D) 1.25 cm 
+
+$T=2m_1m_2g/(m_1+m_2)=75/2$     $T/(πr^2)=24/π 10^2$
+
+
+Q18. A transmitting antenna at top of a tower has a height of 50 m and the height of receiving antenna is 80 m. What is the range of communication for Line of Sight (LoS) mode? [use radius of earth =6400 km]
+(A) 144.1 km 
+*(B) 57.28 km
+(C) 45.5 km 
+(D) 80.2 km 
+
+$(R+h_1)^2=d_1^2+R^2$  $(R+h_2)^2=d_2^2+R^2$   $d=d_1+d_2$
+
+
+
+Q19. A parallel-plate capacitor with plate area A has separation d between the plates. Two dielectric slabs of dielectric constant $K_1$ and $K_2$ of same area A/2 and thickness d/2 are inserted in the space between the plates. The capacitance of the capacitor will be given by: [](https://drive.google.com/uc?id=1W2KMHsw6ScXnTWQe5wQOBGNhgvGVxqM9)
+(A) $\frac{ε_0A}{d} \big( \frac{1}{2} + \frac{K_1+K_2}{K_1K_2} \big)$ 
+(B) $\frac{ε_0A}{d} \big( \frac{1}{2} + \frac{2(K_1+K_2)}{K_1K_2} \big)$ 
+*(C) $\frac{ε_0A}{d} \big( \frac{1}{2} + \frac{K_1K_2}{K_1+K_2} \big)$
+(D) $\frac{ε_0A}{d} \big( \frac{1}{2} + \frac{K_1K_2}{2(K_1+K_2)} \big)$ 
+
+C=C_3+\frac{C_1C_2}{C_1+C_2}
+
+
+
+Q20. The temperature of equal masses of three different liquids x, y and z are 10°C, 20°C and 30°C respectively. The temperature of mixture when x is mixed with y is 16°C and that when y is mixed with z is 26°C. The temperature of mixture when x and z are mixed will be: 
+(A) 28.32°C 
+*(B) 23.84°C
+(C) 25.62°C 
+(D) 20.28°C
+
+$mc_x(16-10)=mc_y(20-16)$ $mc_y(26-20)=mc_z(30-26)$ $mc_x(T-10)=mc_z(30-T)$ 
+
+
+
+Q1B. The coefficient of static friction between two blocks is 0.5 and the table is smooth. The maximum horizontal force that can be applied to move the blocks together is [](https://drive.google.com/uc?id=1kJ6oUmnx4mG_FCI6dxo90IkddfHUrGyB) 
+15 
+
+
+
+
+
+
+{'question type':'text_box'}
+
+Q2B. A source of light is placed in front of a screen. Intensity of light on the screen is I. Two Polaroids P1 and P2 are so placed in between the source of light and screen that the intensity of light on screen is I/2. P2 should be rotated by an angle of (degrees) so that the intensity of light on the screen becomes 3I/8
+30
+
+
+
+
+When light passes through a polarizer intensity is decreased by 1/2 =>  P1 is parallel to P2 =>  $I=I_0cos^2θ$  => $I_0=I/2$  =>   $3I/8=(I/2)cos^2θ$   $cos^2θ=3/4$ => θ=30° $θ_2=\sqrt{acos(3/8)} $
+
+{'question type':'text_box','web':'https://phys.libretexts.org/Bookshelves/University_Physics/Book%3A_University_Physics_(OpenStax)/University_Physics_III_-_Optics_and_Modern_Physics_(OpenStax)/01%3A_The_Nature_of_Light/1.08%3A_Polarization'} 
+
+Q3B. If the maximum value of accelerating potential provided by a radio frequency oscillator is 12 kV. The number of revolution made by proton in a cyclotron to achieve one sixth of the speed of light is
+543
+
+
+
+
+$2nqU=(1/2)mv^2$ => $2n=\frac{mv^2}{4qU}$
+
+{'question type':'text_box'}
+
+Q4B. The acceleration due to gravity is found upto an accuracy of 4% on a planet. The energy supplied to a simple pendulum of known mass ‘m’ to undertake oscillations of time period T is being estimated. If time period is measured to an accuracy of 3%, the accuracy to which E is known as ... %
+14
+
+
+
+
+$T=2π\sqrt{l/g}$ => $l=\frac{T^2g}{4π^2}$ ; $E=mglθ^2/2$ => $E=\frac{mgT^2gθ^2}{8π^2}$ ; $\frac{dE}{E}=2\frac{dg}{g}+2\frac{dT}{T}$ => 2(4+3)=14$
+
+{'question type':'text_box','web':'https://phys.libretexts.org/Bookshelves/Classical_Mechanics/Classical_Mechanics_%28Dourmashkin%29/23%3A_Simple_Harmonic_Motion/23.03%3A_Energy_and_the_Simple_Harmonic_Oscillator','web2':'https://math.libretexts.org/Bookshelves/Calculus/Map%3A_University_Calculus_%28Hass_et_al%29/3%3A_Differentiation/3.11%3A_Linearization_and_Differentials'}
+
+Q5B. An object is placed at a distance of 12 cm from a convex lens. A convex mirror of focal length 15 cm is placed on other side of lens at 8 cm as shown in the figure. Image of object coincides with the object. When the convex mirror is removed, a real and inverted image is formed at a position. The distance of the image from the object will be ______ (cm). [](https://drive.google.com/uc?id=1g76K_KjnX71r1ds-iVgWnZMmQwWoUwjz) 
+50
+
+
+
+
+12+8+30
+
+{'question type':'text_box', 'web' : 'https://phys.libretexts.org/Sandboxes/tmzoughi_at_gsu.edu/GSU-TM-Introductory_Physics_II_(1112)/11%3A_Geometrical_Optics/11.10%3A_Spherical_Mirrors' }
+
+Q6B. Two simple harmonic motions are represented by the equations $x_1=5sin(2πt+π/4)$ and $x_2=5\sqrt{2}(sin(2πt)+cos(2πt))$ The amplitude of second motion is ________ times the amplitude in first motion. 
+2
+
+
+
+
+$x_2^'(t)=0$ => $x_2(t_{max})/5=2$
+
+{'question type':'text_box'}
+
+Q7B. A circular coil of radius 8.0 cm and 20 turns is rotated about its vertical diameter with an angular speed of 50 rad $s^{–1}$ in a uniform horizontal magnetic field of $3.0 × 10^{–2}$ T. The maximum emf induced in the coil will be ________ × 10^{–2} volt (rounded off to the nearest integer). 
+60
+
+
+
+
+$E=nBπr^2ω$  $=20*3*10^{–2}*3.14*(0.08)^2*50$  $=0.60288≈60×10^{–2}$
+
+{'question type':'text_box'}
+
+Q8B. A coil in the shape of an equilateral triangle of side 10 cm lies in a vertical plane between the pole pieces of permanent magnet producing a horizontal magnetic field 20 mT. The torque acting on the coil when a current of 0.2 A is passed through it and its plane becomes parallel to the magnetic field will be $\sqrt{x} x 10^{-5}$ Nm. The value of x is 
+3
+
+
+
+
+$τ=iABsin(90)=iAB=i\sqrt{3}l^2B/4$ $=0.2*\sqrt{3}*(0.1)^2*0.02/4$ $=\sqrt{3}*10^{-5}$
+
+{'question type':'text_box'}
+
+Q9B. Two waves are simultaneously passing through a string and their equations are: $y_1=A_1sink(x-vt), y_2=A_2sink(x-vt+x_0)$ . Given amplitudes $A_1 = 12$ mm and $A_2 = 5$ mm, $x_0$ = 3.5 cm and wave number k = 6.28 $cm^{–1}$. The amplitude of resulting wave will be 
+7
+
+
+
+
+Phase difference $φ=kx_0$ $=6.28*3.5=21.98$ rad ; Amplitude $A=\sqrt{A_1^2+A_2^2+2A_1A_2cosφ}$  $=\sqrt{12^2+5^2+2*12*5*cos(21.98)}=7$
+
+{'question type':'text_box'}
+
+Q10B. For the given circuit, the power across zener diode is ___ mW. [](https://drive.google.com/uc?id=1QyoHJMEeqae4J4gqs0TYYE8g6hwfAz1V)
+120
+
+
+
+
+$I_z=I_{R_1}-I_{R_L}$ $I_{R_1}=(E-V_z)/R_1$  $I_{R_L}=V_z/R_L$    $I_z=\frac{24-10}{1000}-\frac{10}{5000}=0.012$ $P_z=V_z*I_z=10*0.012=0.12=120*10^{-3}$
+
+{'question type':'text_box'}
+
+
+
+
+
+
+
+
+
+
+
+
+
+{'quiz_name': 'Physics; India; JEE(Main) -2021 Test Date: 26 th August 2021 (Second Shift)', 'quiz_author': 'Algirdas Laukaitis'} 
