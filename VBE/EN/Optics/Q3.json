@@ -1,0 +1,105 @@
+{
+  "version": 2,
+  "objs": [
+    {
+      "type": "ruler",
+      "p1": {
+        "type": 1,
+        "x": 400,
+        "y": 340,
+        "exist": true
+      },
+      "p2": {
+        "type": 1,
+        "x": 1080,
+        "y": 340,
+        "exist": true
+      }
+    },
+    {
+      "type": "lens",
+      "p1": {
+        "type": 1,
+        "x": 600,
+        "y": 180,
+        "exist": true
+      },
+      "p2": {
+        "type": 1,
+        "x": 600,
+        "y": 500,
+        "exist": true
+      },
+      "p": "-200"
+    },
+    {
+      "type": "lens",
+      "p1": {
+        "type": 1,
+        "x": 500,
+        "y": 180,
+        "exist": true
+      },
+      "p2": {
+        "type": 1,
+        "x": 500,
+        "y": 500,
+        "exist": true
+      },
+      "p": "200"
+    },
+    {
+      "type": "laser",
+      "p1": {
+        "type": 1,
+        "x": 400,
+        "y": 240,
+        "exist": true
+      },
+      "p2": {
+        "type": 1,
+        "x": 420,
+        "y": 240,
+        "exist": true
+      },
+      "p": 1
+    },
+    {
+      "type": "laser",
+      "p1": {
+        "type": 1,
+        "x": 400,
+        "y": 240,
+        "exist": true
+      },
+      "p2": {
+        "type": 1,
+        "x": 500,
+        "y": 340,
+        "exist": true
+      },
+      "p": 1,
+      "wavelength": 622
+    }
+  ],
+  "mode": "extended_light",
+  "rayDensity_light": 0.01831563888873418,
+  "rayDensity_images": 1,
+  "observer": {
+    "type": 5,
+    "c": {
+      "type": 1,
+      "x": 784.1407080535564,
+      "y": 232.7254857285816,
+      "exist": true
+    },
+    "r": 20,
+    "exist": true
+  },
+  "origin": {
+    "x": 119.75000000000003,
+    "y": 55.25000000000002
+  },
+  "scale": 1.25,
+  "colorMode": true
+}
