@@ -54,7 +54,7 @@ A 14 rad/s
 C 200 rad/s
 D 400 rad/s
 
-$a=v^2/R => v = w R   =>   a=w^2 R  =>      w = \SQRT{a/R} = \SQRT{60/0.15} = 20 $
+$a=v^2/R => v = w R   =>   a=w^2 R  =>      w = \sqrt{a/R} = \sqrt{60/0.15} = 20 $
 
 
 
